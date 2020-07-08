@@ -1,0 +1,9 @@
+var food = "pizza"
+var isDelicios = true
+food = "Cheeseburger"
+var num2 = 2;
+var num7 = 7;
+var quotient = 3.5;
+var songs = ["bad", "work", "i cant feel my face", "the anthem"]
+var goodSongs = songs.slice[1,3]
+var foodSplit = food.split("")

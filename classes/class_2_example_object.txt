@@ -1,0 +1,14 @@
+Fogo de Chao
+
+attributes:
+restaurantLocation : "Downtown Denver"
+totalCapacity : 300
+reservations : true
+currentCapacity : 150
+dailySpecial : "Filet Mignon with a of side mashed potatoes"
+
+methods:
+changeRestaurantLocation : "Denver Tech Center"
+availableCapacity : 150
+reservationsAvailable : true
+changeDailySpecial : "Chilean Sea Bass with roasted veggies"

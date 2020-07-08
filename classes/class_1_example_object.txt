@@ -1,0 +1,14 @@
+Mcdonalds
+
+attributes:
+restaurantLocation : "Edgewater Location"
+totalCapacity : 300
+driveThru: true
+currentCapacity: 150
+vegeterianOption: true
+
+methods:
+changeRestaurantLocation :"Wheatridge Location"
+availableCapacity : 300 - 150 = 150
+driveThruOpen : driveThru is true
+vegeterianOptionAvailable : vegeterianOption is true

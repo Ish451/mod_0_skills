@@ -1,0 +1,14 @@
+Fast Food Restaurants
+
+attributes:
+restaurantLocation (string)
+totalCapacity (integer)
+driveThru (boolean)
+currentCapacity (integer)
+vegeterianOption (boolean)
+
+methods:
+changeRestaurantLocation (change the restaurantLocation attribute)
+availableCapacity (totalCapacity - currentCapacity)
+driveThruOpen - (driveThru = true)
+vegeterianOptionAvailable - (vegeterianOption = Y)

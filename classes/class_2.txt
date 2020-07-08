@@ -1,0 +1,14 @@
+Fine Dining Restaurants
+
+attributes:
+restaurantLocation (string)
+totalCapacity (integer)
+reservations (boolean)
+currentCapacity (integer)
+dailySpecial (string)
+
+methods:
+changeRestaurantLocation (change the restaurantLocation attribute)
+availableCapacity (totalCapacity - currentCapacity)
+reservationsAvailable (reservations = true)
+changeDailySpecial (change the dailySpecial attribute)

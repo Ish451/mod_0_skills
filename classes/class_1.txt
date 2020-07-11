@@ -9,6 +9,6 @@ vegeterianOption (boolean)
 
 methods:
 changeRestaurantLocation (change the restaurantLocation attribute)
-availableCapacity (totalCapacity - currentCapacity)
-driveThruOpen - (driveThru = true)
-vegeterianOptionAvailable - (vegeterianOption = Y)
+calculateAvailableCapacity (totalCapacity - currentCapacity)
+openDriveThru - (openDriveThru = true)
+allowVegeterianOption - (allowVegeterianOption = true)

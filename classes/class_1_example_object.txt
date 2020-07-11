@@ -9,6 +9,6 @@ vegeterianOption: true
 
 methods:
 changeRestaurantLocation :"Wheatridge Location"
-availableCapacity : 300 - 150 = 150
-driveThruOpen : driveThru is true
-vegeterianOptionAvailable : vegeterianOption is true
+calculateAvailableCapacity : 300 - 150 = 150
+openDriveThru : driveThru is true
+allowVegeterianOption : vegeterianOption is true

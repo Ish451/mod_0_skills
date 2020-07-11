@@ -9,6 +9,6 @@ dailySpecial : "Filet Mignon with a of side mashed potatoes"
 
 methods:
 changeRestaurantLocation : "Denver Tech Center"
-availableCapacity : 150
-reservationsAvailable : true
+calculateAvailableCapacity : 150
+checkReservations : true
 changeDailySpecial : "Chilean Sea Bass with roasted veggies"
